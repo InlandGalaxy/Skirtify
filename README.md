@@ -6,5 +6,5 @@ Skirtify is a basic image viewer written in Python. Of course it's also stored i
 ![skirtifyschreenshot](https://user-images.githubusercontent.com/65157905/123542581-a9210f80-d74a-11eb-82ce-4ad8790eb145.PNG)
 
 <img src="https://user-images.githubusercontent.com/65157905/123542331-6ca0e400-d749-11eb-82e6-0c2799580f02.gif" width="200" height="350">
-Yes Skirtify comes from skirts. I love skirts. I mean like I didn't ever wear one but I love it when girls wear them.
+Yes Skirtify comes from skirts. I love skirts. I mean like I haven't wear one yet but I love it when girls wear them.
 
